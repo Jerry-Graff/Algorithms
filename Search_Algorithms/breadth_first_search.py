@@ -4,6 +4,7 @@ from collections import deque
 def breadth_first_search(graph, start):
     """
     Performs Breadth-First Search on a graph starting from the start node.
+    Good option for working with a weighted graph.
 
     Args:
         graph (dict): Adjacency list representation of the graph where
