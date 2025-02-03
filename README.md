@@ -8,7 +8,7 @@ The algorithms in this repository are organized into different categories based 
 
 - **Sorting Algorithms**: Implementations of sorting techniques such as Bubble Sort, Quick Sort, Merge Sort, and more.
 - **Searching Algorithms**: Key searching methods like Linear Search, Binary Search, Depth-First Search (DFS), and Breadth-First Search (BFS).
-- **Graph Algorithms**: Algorithms for working with graphs, including Dijkstra’s algorithm, Prim's algorithm, and more.
+- **Graph Algorithms**: Algorithms for working with graphs, including Dijkstra’s algorithm.
 - **Dynamic Programming**: Solutions to common dynamic programming problems like the Knapsack Problem, Longest Common Subsequence, and others.
 - **String Algorithms**: String processing algorithms, including pattern matching and text searching techniques.
 - **Mathematical Algorithms**: Fundamental math-based algorithms like prime checking, GCD, and modular exponentiation.
